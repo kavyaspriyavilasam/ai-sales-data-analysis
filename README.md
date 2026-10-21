@@ -27,7 +27,7 @@ Project Features
 
 Dashboard Preview
 
-"Sales Dashboard" (sales-dashboard.png)
+"Sales Dashboard" (Screenshot 2026-10-21 173456.png)
 
 What I Learned
 
