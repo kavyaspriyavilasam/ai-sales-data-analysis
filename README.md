@@ -28,9 +28,9 @@ Project Features
 Dashboard Preview
 
 ![Sales Dashboard](<Screenshot 2026-10-21 173456.png>)
-![Sales Dashboard](<Screenshot 2026-10-21 173456.png>)
-![Sales Dashboard](<Screenshot 2026-10-21 173456.png>)
-![Sales Dashboard](<Screenshot 2026-10-21 173456.png>)
+![Sales Dashboard](<Screenshot 2026-10-21 173545.png>)
+![Sales Dashboard](<Screenshot 2026-10-21 173604.png>)
+![Sales Dashboard](<Screenshot 2026-10-21 173623.png>)
 
 
 What I Learned
